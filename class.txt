@@ -1,0 +1,9 @@
+4
+SF01 normal 60 WPC 13 9
+SF02 normal 70 W 14 9
+SF03 normal 60 WP 15 10
+SF04 normal 80 WPC 14 9
+
+
+
+
